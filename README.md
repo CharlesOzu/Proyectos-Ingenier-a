@@ -49,4 +49,21 @@ Comunidad: Crear un archivo CONTRIBUTING.md para guiar a los nuevos colaboradore
 # Recursos:
 # Canales de Github Divulgador Tecnologicos:
 https://github.com/mouredev
+
 https://github.com/midudev/midudev
+
+https://github.com/malgamves/CommunityWriterPrograms
+
+https://github.com/codecrafters-io/build-your-own-x
+
+https://github.com/ossu/computer-science
+
+https://github.com/vinta/awesome-python
+
+https://github.com/ossu/computer-science
+
+https://github.com/public-apis/public-apis
+
+https://github.com/yangshun/tech-interview-handbook
+
+https://github.com/Chalarangelo/30-seconds-of-code
