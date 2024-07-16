@@ -46,3 +46,7 @@ Actualizaciones: Mantener el proyecto actualizado con mejoras y nuevas funcional
 b. Comunidad
 Colaboradores: Fomentar la participación de otros desarrolladores.
 Comunidad: Crear un archivo CONTRIBUTING.md para guiar a los nuevos colaboradores sobre cómo pueden contribuir al proyecto.
+# Recursos:
+# Canales de Github Divulgador Tecnologicos:
+https://github.com/mouredev
+https://github.com/midudev/midudev
