@@ -67,3 +67,17 @@ https://github.com/public-apis/public-apis
 https://github.com/yangshun/tech-interview-handbook
 
 https://github.com/Chalarangelo/30-seconds-of-code
+
+# Aprender GitHub:
+
+https://docs.github.com/en/get-started
+
+https://www.youtube.com/watch?v=3GymExBkKjE
+
+# Realizar CV:
+
+https://www.resumego.net/resume-checker/
+
+# Libros:
+
+https://flaviocopes.com/books/
